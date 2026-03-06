@@ -4,7 +4,7 @@ VERSIÓN: 0.1
 === INTEGRANTE A COORDINADOR/A ===
 Nombre: Alex
 Tecnología asignada: React
-Estado personal: Pendiente
+Estado personal: En progreso
 === INTEGRANTE B ===
 Nombre: Ruben
 Tecnologia asignada: Node.js
