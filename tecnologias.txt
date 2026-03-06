@@ -1,0 +1,21 @@
+=== CATÁLOGO DE TECNOLOGÍAS WEB ===
+ÚLTIMA REVISIÓN: 06/03/2026
+RESPONSABLE: Alex
+FRONTEND
+[ASIGNADO A PERSONA A]
+Tecnologia: React
+Descripción: Biblioteca para interfaces de usuario
+Nivel: Básico
+Recurso: react.dev
+BACKEND
+[ASIGNADO A PERSONA B]
+Tecnologia: Node.js
+Descripción: Entorno de ejecución para JavaScript
+Nivel: Básico
+Recurso: nodejs.org
+BASE DE DATOS
+[ASIGNADO A PERSONA C]
+Tecnologia: MongoDB
+Descripción: Base de datos NoSQL
+Nivel: Básico
+Recurso: mongodb.com
